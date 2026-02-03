@@ -1,6 +1,6 @@
 {
   "name": "projectvoicecall",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A web application to make calls on the local network",
   "main": "index.js",
   "scripts": {
